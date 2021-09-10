@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayydev
 - 👀 I’m interested in Games, Japan, Anime, Programing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning c++
 - 📩 Contact: rxvy オンライン#1337
 
 <!---
