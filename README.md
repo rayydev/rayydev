@@ -53,7 +53,7 @@
     <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
 </a>  
 <a href="#">
-    <img src="svg/dev/misc/web" alt="web" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
 </a>  
 <a href="#">
     <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
