@@ -87,11 +87,6 @@
 - PC Case: SilentiumPC Signum SG1V Evo TG ARGB
 - Processor colling: SILENTIUM PC Spartan 4 Evo
 
-
+# Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!---
-rayydev/rayydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayydev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
