@@ -42,6 +42,15 @@
 <a href="#">
     <img src="svg/dev/tools/powershell.svg" alt="ps" style="vertical-align:top; margin:6px 4px">
 </a>  
+<a href="#">
+    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/tools/jetbrains_webstorm.svg" alt="ws" style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
+</a>  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
