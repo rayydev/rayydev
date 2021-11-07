@@ -62,7 +62,12 @@
 # Social 
 <a href="https://www.twitch.tv/rxvyonline">
     <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+<a href="https://soundcloud.com/rayyonthetrack">
+    <img src="svg/social/soundcloud.svg" alt="sc" style="vertical-align:top; margin:6px 4px">
 </a>  
+
 
 # About
 - Aleksander
