@@ -72,7 +72,20 @@
 # About
 - Aleksander
 - ?? years old
-- 
+- Living in Poland
+
+# Software
+- Operating system > Windows 11, Arch Linux
+- Terminals > fish, Windows Terminal, bash, zsh
+
+# Hardware
+- CPU: Intel Core I5-9400F 2.90 GHz
+- GPU: NVIDIA GeForce GTX 1660
+- Ram: 16 GB 2x 8 gb 2666 MHz
+- Disks: 1 SSD 420 gb 2 HDD 2TB
+- Motherboard: Gigabyte H310M A 2.0
+- PC Case: SilentiumPC Signum SG1V Evo TG ARGB
+- Processor colling: SILENTIUM PC Spartan 4 Evo
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
