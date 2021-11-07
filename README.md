@@ -1,6 +1,14 @@
 # Hello
  Am rayydev am programmer. Sometimes am playing games and making music. 
- 
+# Frameworks
+
+<a href="#">
+    <img src="svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
+</a>  
+
 # Languages 
 <a href="#">
     <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
@@ -24,6 +32,16 @@
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 </a>
 
+# Tools
+<a href="#">
+    <img src="svg/dev/tools/visualstudio.svg" alt="vs" style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="ps" style="vertical-align:top; margin:6px 4px">
+</a>  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
