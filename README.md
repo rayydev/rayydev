@@ -1,5 +1,6 @@
 # Hello
  Am rayydev am programmer. Sometimes am playing games and making music. 
+ Concretely working on: Own terminal written in python
 # Frameworks
 
 <a href="#">
@@ -50,6 +51,12 @@
 </a>  
 <a href="#">
     <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/tools/web" alt="web" style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/tools/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
 </a>  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
