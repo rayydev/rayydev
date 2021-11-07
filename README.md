@@ -61,7 +61,7 @@
 
 # Social
 <a href="#">
-    <img src="svg/social/soundcloud.svg" alt="desktop" style="vertical-align:top; margin:6px 4px" href="https://soundcloud.com/rayyonthetrack">
+    <img src="svg/social/soundcloud.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">(https://soundcloud.com/rayyonthetrack)
 </a>  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
