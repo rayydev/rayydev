@@ -60,7 +60,7 @@
 </a>  
 
 # Social 
-<a href="www.twitch.tv/rxvyonline">
+<a href="https://www.twitch.tv/rxvyonline">
     <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
 </a>  
 
