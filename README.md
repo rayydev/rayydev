@@ -1,6 +1,6 @@
 # Hello
- Am rayydev am programmer. Sometimes am playing games and making music. 
- Concretely working on: Own terminal written in python
+ - Am rayydev am programmer. Sometimes am playing games and making music. 
+ - Concretely working on: Own terminal written in python
 # Frameworks
 
 <a href="#">
