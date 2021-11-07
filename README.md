@@ -59,10 +59,16 @@
     <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
 </a>  
 
-# Social
-<a href="#">
-    <img src="svg/social/soundcloud.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">(https://soundcloud.com/rayyonthetrack)
+# Social 
+<a href="www.twitch.tv/rxvyonline">
+    <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
 </a>  
+
+# About
+- Aleksander
+- ?? years old
+- 
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
