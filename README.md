@@ -1,7 +1,7 @@
 # Hello
  Am rayydev am programmer. Sometimes am playing games and making music. 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact/theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
