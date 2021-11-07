@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @rayydev
-- 👀 I’m interested in Games, Japan, Anime, Programing
-- 🌱 I’m currently learning c++
-- 📩 Contact: rxvy オンライン#1337
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayydev&count_private=true)
-
+# Hello
+ Am rayydev am programmer. Sometimes am playing games and making music. 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayydev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
