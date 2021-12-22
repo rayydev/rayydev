@@ -78,8 +78,8 @@
 - Living in Poland
 
 # Software
-- Operating system > Windows 11, Arch Linux
-- Terminals > fish, Windows Terminal, bash, zsh
+- Operating system > Windows 11, Manjaro Linux I3
+- Terminals > fish, Windows Terminal, kitty
 
 # Hardware
 - CPU: Intel Core I5-9400F 2.90 GHz
