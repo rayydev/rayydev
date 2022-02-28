@@ -1,6 +1,6 @@
 # Hello
  - Am rayydev am programmer. Sometimes am playing games and making music. 
- - Concretely working on: Own terminal written in python
+ - Concretely working on: 4Fun Discord bot
 # Frameworks
 
 <a href="#">
