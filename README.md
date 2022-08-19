@@ -1,19 +1,8 @@
 # Hello
- - Am rayydev am programmer. Sometimes am playing games and making music. 
- - Concretely working on: 4Fun Discord bot
-# Frameworks
+ - I am rayydev and am programer.  
+ - Concretely working on: nothing besides my website 
 
-<a href="#">
-    <img src="svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:6px 4px">
-</a>  
-<a href="#">
-    <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
-</a>  
-
-# Languages 
-<a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-</a>  
+# Languages   
 
 <a href="#">
     <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
@@ -47,29 +36,18 @@
     <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
 </a>  
 <a href="#">
-    <img src="svg/dev/tools/jetbrains_webstorm.svg" alt="ws" style="vertical-align:top; margin:6px 4px">
-</a>  
-<a href="#">
-    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-</a>  
-<a href="#">
-    <img src="svg/dev/tools/jetbrains_rider.svg" alt="rd" style="vertical-align:top; margin:6px 4px">
-</a> 
-<a href="#">
     <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
 </a>  
 <a href="#">
     <img src="svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
-</a>  
-
+</a>
+<a href="#">
+    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-algin:top; margin:6px 4px">
+</a>
 # Social 
 <a href="https://www.twitch.tv/rxvyonline">
     <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
 </a> 
-
-<a href="https://soundcloud.com/rayyonthetrack">
-    <img src="svg/social/soundcloud.svg" alt="sc" style="vertical-align:top; margin:6px 4px">
-</a>  
 
 
 # About
@@ -78,8 +56,8 @@
 - Living in Poland
 
 # Software
-- Operating system > Windows 11, Manjaro Linux I3
-- Terminals > fish, Windows Terminal, kitty
+- Operating system > Windows 10, Kali Linux
+- Terminals > Konsole, PuTTy (i take that as terminal i guess...), Windows Terminal (i use powersell mostly and ubuntu wsl2)
 
 # Hardware
 - CPU: Intel Core I5-9400F 2.90 GHz
