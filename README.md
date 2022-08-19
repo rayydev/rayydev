@@ -44,11 +44,11 @@
 <a href="#">
     <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-algin:top; margin:6px 4px">
 </a>
+
 # Social 
 <a href="https://www.twitch.tv/rxvyonline">
     <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
 </a> 
-
 
 # About
 - Aleksander
